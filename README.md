@@ -154,7 +154,3 @@ Authorization: Bearer <token>
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-If you want, I can also generate a **Postman collection** for this API or help you set up **JWT refresh tokens** and **role-based auth**.
